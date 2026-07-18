@@ -1,0 +1,43 @@
+GREENHOUSE DISEASE RISK GUIDE — TOMATO
+========================================
+
+FUSARIUM WILT:
+- Trigger conditions: Temperature above 28 degrees AND Humidity above 80 percent
+- Risk level: HIGH when both conditions persist for more than 2 hours
+- Prevention: Maintain humidity below 75 percent, ensure good air circulation
+- Action: Increase ventilation, reduce humidity immediately
+
+BOTRYTIS GRAY MOLD:
+- Trigger conditions: Temperature below 20 degrees AND Humidity above 85 percent
+- Risk level: VERY HIGH in cool humid conditions
+- Prevention: Maintain temperature above 18 degrees, humidity below 80 percent
+- Action: Increase heating, maximum ventilation
+
+POWDERY MILDEW:
+- Trigger conditions: Low light AND Humidity above 70 percent AND Temperature 20 to 25 degrees
+- Risk level: HIGH in shaded humid conditions
+- Prevention: Ensure adequate light above 300 lux, good air movement
+- Action: Increase supplemental lighting, improve ventilation
+
+PYTHIUM ROOT ROT:
+- Trigger conditions: Soil moisture above 85 percent for extended period
+- Risk level: HIGH when soil waterlogged more than 4 hours
+- Prevention: Never allow soil moisture above 80 percent
+- Action: Stop all irrigation immediately, improve drainage
+
+HEAT STRESS:
+- Trigger conditions: Temperature above 35 degrees for more than 30 minutes
+- Effects: Flower abortion, fruit cracking, reduced yield
+- Prevention: Never allow temperature above 32 degrees during flowering
+- Action: Emergency cooling protocol immediately
+
+WATER STRESS:
+- Trigger conditions: Soil moisture below 30 percent for more than 2 hours
+- Effects: Blossom end rot, fruit cracking, stunted growth
+- Prevention: Maintain soil moisture above 40 percent
+- Action: Immediate irrigation
+
+LIGHT DEFICIENCY:
+- Trigger conditions: Light below 150 lux during 8am to 6pm
+- Effects: Etiolation, poor fruit set, weak stems
+- Action: Activate grow lights at full capacity

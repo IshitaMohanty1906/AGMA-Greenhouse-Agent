@@ -1,0 +1,99 @@
+GREENHOUSE ANOMALY ACTION PROTOCOLS
+=====================================
+
+TEMPERATURE ANOMALY PROTOCOLS:
+
+Protocol T1 - High Temperature Warning 28 to 35 degrees:
+- Action: Activate ventilation at 50 percent capacity
+- Action: Check if heating system is accidentally ON
+- Alert level: WARNING
+
+Protocol T2 - High Temperature Critical 35 to 40 degrees:
+- Action: Activate ventilation at 100 percent capacity immediately
+- Action: Pause all heating systems immediately
+- Action: Send alert to operator
+- Alert level: CRITICAL
+
+Protocol T3 - High Temperature Emergency above 40 degrees:
+- Action: Maximum ventilation immediately
+- Action: Activate all cooling systems
+- Action: Send emergency alert immediately
+- Alert level: EMERGENCY
+
+Protocol T4 - Low Temperature Warning 15 to 18 degrees:
+- Action: Activate heating system at 30 percent capacity
+- Action: Close ventilation partially
+- Alert level: WARNING
+
+Protocol T5 - Low Temperature Critical below 15 degrees:
+- Action: Activate heating system at 100 percent
+- Action: Close all ventilation
+- Action: Send alert to operator
+- Alert level: CRITICAL
+
+HUMIDITY ANOMALY PROTOCOLS:
+
+Protocol H1 - High Humidity Warning 80 to 85 percent:
+- Action: Increase ventilation by 30 percent
+- Action: Pause irrigation temporarily
+- Action: Monitor for disease signs
+- Alert level: WARNING
+
+Protocol H2 - High Humidity Critical above 85 percent:
+- Action: Maximum ventilation activation
+- Action: Stop all irrigation immediately
+- Action: Send alert for fungal disease risk
+- Alert level: CRITICAL
+
+Protocol H3 - Low Humidity Warning below 50 percent:
+- Action: Reduce ventilation rate
+- Action: Check irrigation schedule
+- Alert level: WARNING
+
+CO2 ANOMALY PROTOCOLS:
+
+Protocol C1 - High CO2 Warning 1200 to 1500 ppm:
+- Action: Increase ventilation rate by 40 percent
+- Action: Check ventilation system operation
+- Alert level: WARNING
+
+Protocol C2 - High CO2 Critical above 1500 ppm:
+- Action: Maximum ventilation flush run for 15 minutes
+- Action: Check for CO2 enrichment system malfunction
+- Action: Send alert to operator
+- Alert level: CRITICAL
+
+SOIL MOISTURE ANOMALY PROTOCOLS:
+
+Protocol S1 - Low Moisture Warning 25 to 35 percent:
+- Action: Activate irrigation immediately
+- Alert level: WARNING
+
+Protocol S2 - Low Moisture Critical below 25 percent:
+- Action: Emergency irrigation full capacity
+- Action: Send alert plant wilting imminent
+- Alert level: CRITICAL
+
+Protocol S3 - High Moisture Warning above 85 percent:
+- Action: Stop all irrigation
+- Alert level: WARNING
+
+COMPOUND CONDITION PROTOCOLS:
+
+Protocol CC1 - High Temperature plus High Humidity:
+- Action: Ventilate at maximum addresses both conditions
+- Action: Stop irrigation completely
+- Action: Send fusarium disease risk alert
+- Alert level: CRITICAL
+- Important: Do NOT irrigate when humidity is already critical
+
+Protocol CC2 - High Temperature plus Low Moisture:
+- Action: Ventilate to reduce temperature
+- Action: Irrigate at moderate rate to cool roots
+- Alert level: CRITICAL
+
+Protocol CC3 - Low Temperature plus High Humidity:
+- Action: Activate heating
+- Action: Increase ventilation slowly
+- Action: Alert for botrytis disease risk
+- Alert level: CRITICAL

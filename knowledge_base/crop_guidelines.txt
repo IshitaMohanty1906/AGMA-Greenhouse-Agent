@@ -1,0 +1,48 @@
+GREENHOUSE CROP GUIDELINES — CHERRY TOMATO
+==========================================
+
+TEMPERATURE GUIDELINES:
+- Optimal daytime temperature: 20-25 degrees Celsius
+- Optimal nighttime temperature: 16-18 degrees Celsius
+- Maximum safe temperature: 32 degrees Celsius
+- Critical high temperature: above 35 degrees causes flower drop and fruit damage
+- Emergency temperature: above 40 degrees causes plant death within hours
+- Minimum safe temperature: 15 degrees Celsius
+- Critical low temperature: below 10 degrees causes chilling injury
+
+HUMIDITY GUIDELINES:
+- Optimal relative humidity: 60-75 percent
+- Acceptable range: 50-80 percent
+- High humidity warning: above 80 percent increases disease risk
+- Critical high humidity: above 85 percent causes fungal disease outbreak
+- Low humidity warning: below 50 percent causes water stress and tip burn
+- Critical low humidity: below 40 percent causes severe wilting
+
+CO2 CONCENTRATION GUIDELINES:
+- Ambient CO2 level: 400 ppm
+- Optimal CO2 for photosynthesis: 800-1200 ppm
+- CO2 enrichment recommended: 800-1000 ppm during daylight
+- High CO2 warning: above 1200 ppm with poor ventilation
+- Critical CO2: above 1500 ppm requires immediate ventilation
+- Emergency CO2: above 2000 ppm is toxic to plants and workers
+
+LIGHT INTENSITY GUIDELINES:
+- Minimum light for photosynthesis: 150 lux
+- Optimal light intensity: 400-700 lux
+- Maximum beneficial light: 800 lux
+- Supplemental lighting needed: when natural light below 200 lux during 6am to 8pm
+- Night period: no supplemental lighting needed after 10pm
+- Daily light integral: minimum 12 mol per square meter per day for tomatoes
+
+SOIL MOISTURE GUIDELINES:
+- Optimal soil moisture: 50-70 percent
+- Acceptable range: 40-75 percent
+- Irrigation trigger: below 35 percent soil moisture
+- Critical low moisture: below 25 percent causes immediate wilting
+- Waterlogged warning: above 85 percent causes root rot
+- Critical high moisture: above 90 percent causes anaerobic conditions
+
+NUTRIENT AND WATER GUIDELINES:
+- Irrigation frequency: 2-4 times daily depending on growth stage
+- Avoid irrigation after 6pm to reduce night humidity
+- Morning irrigation preferred: 7am to 10am optimal window

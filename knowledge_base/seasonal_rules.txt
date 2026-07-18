@@ -1,0 +1,43 @@
+SEASONAL AND TIME GUIDELINES FOR GREENHOUSE MANAGEMENT
+=======================================================
+
+SUMMER JUNE TO AUGUST:
+- Temperature management: HIGHEST PRIORITY check ventilation every 30 minutes
+- Ventilation: Run ventilation proactively before temperature exceeds 30 degrees
+- Irrigation: Increase to 3-4 times daily
+- Lighting: Supplemental only needed on cloudy days
+- Energy: Focus on cooling, heating not needed
+
+SPRING MARCH TO MAY:
+- Temperature management: Ventilate during afternoon 12pm to 4pm
+- Humidity: Monitor closely, spring humidity can be high
+- Irrigation: Increase frequency as temperature rises
+- Priority: Ventilation and temperature balance
+
+AUTUMN SEPTEMBER TO NOVEMBER:
+- Temperature management: Balance heating and ventilation
+- Humidity: Increasing risk, monitor for disease
+- Irrigation: Decrease frequency as temperature drops
+- Lighting: Supplemental lighting increasingly needed
+- Priority: Disease prevention and heating efficiency
+
+WINTER DECEMBER TO FEBRUARY:
+- Temperature management: Heating is PRIMARY concern
+- Ventilation: Minimize, only ventilate when CO2 is critical
+- Irrigation: Reduce to 1-2 times daily
+- Lighting: Maximum supplemental lighting needed
+- Priority: Heating over ventilation always
+
+TIME OF DAY GUIDELINES:
+- Night 10pm to 6am: No irrigation, minimal ventilation, heating priority
+- Early morning 6am to 9am: Begin irrigation, check overnight conditions
+- Morning 9am to 12pm: CO2 enrichment, optimize light
+- Afternoon 12pm to 4pm: Peak temperature management, maximum ventilation if needed
+- Evening 4pm to 8pm: Reduce irrigation, prepare for night settings
+
+ENERGY OPTIMIZATION RULES:
+- Never run heating and ventilation simultaneously at maximum
+- Use supplemental lighting only when natural light below 200 lux
+- Schedule irrigation during morning to reduce night humidity
+- Ventilation priority order: CO2 flush then temperature then humidity
+- Heating priority: Temperature maintenance over humidity control
